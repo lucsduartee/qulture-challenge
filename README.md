@@ -8,6 +8,18 @@ O projeto utiliza Docker e Docker Compose para gerenciamento e execução dos am
 **Dependência:** O frontend depende que o backend esteja em execução para funcionar corretamente.
 
 ---
+## Desenvolvimento
+
+O projeto foi desenvolvido em repositórios separados, se quiser conferir como foi processo de desenvolvimento
+incluindo commits e pull requests, acesse-os nos links:
+
+- [qulture-challenge-client](https://github.com/lucsduartee/qulture-challenge-client)
+- [qulture-challenge-api](https://github.com/lucsduartee/qulture-challenge-api)
+
+Coloquei os repositórios aqui, para facilitar o processo de avaliação, assim é possível rodá-los com
+apenas um comando do docker.
+
+---
 
 ## Tecnologias Utilizadas
 
