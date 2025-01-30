@@ -110,9 +110,15 @@ Certifique-se de ter os seguintes softwares instalados:
 
 ---
 
+## Diagrama ERD
+
+![Diagrama do banco](./db.png)
+
+---
 ## Wireframes
-> **Espaço reservado para prints de wireframes:**
-> Cole aqui capturas de tela que representem as páginas principais e funcionalidades da aplicação.
+![Empresa](./empresa.png)
+![Empresas](./empresas.png)
+![Colaboradores](./colaboradores.png)
 
 ---
 
